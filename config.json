@@ -1,0 +1,8 @@
+{
+  "products_per_block": 3,
+  "strip_prefix": "Boho Green Make-Up ",
+  "top_title": "Nejoblíbenější produkty",
+  "category_title": "Vybrali jsme pro vás: {kategorie}",
+  "top_ids": ["MGV_01", "RAL_312", "GPE"],
+  "exclude_categories": ["Dárkové poukazy"]
+}
