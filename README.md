@@ -3,7 +3,7 @@
 Datový feed pro Ecomail (Boho Cosmetics), generovaný z Heureka produktového feedu.
 
 **URL feedu pro Ecomail** (Další → Datové feedy):
-`https://raw.githubusercontent.com/<owner>/ecomail-boho-feed/main/feed.xml`
+`https://raw.githubusercontent.com/Snipex-bot/ecomail-boho-feed/main/feed.xml`
 
 ## Jak to funguje
 1. GitHub Action (`.github/workflows/update-feed.yml`) denně stáhne Heureka feed (secret `FEED_URL`).
